@@ -1,8 +1,8 @@
 body{
   background-color: yellow;
+  color:#000000;
 }
 h4{
-  color:rgb(49, 194, 240);
   text-align: center;
   padding: 10px 0;
 }
@@ -15,4 +15,8 @@ p{
 .imagenes{
   width:100%;
   height:auto;
+}
+footer{
+  background-color: #007bff;
+  color:#000000;
 }
