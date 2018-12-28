@@ -2,6 +2,13 @@ body{
   background-color: yellow;
   color:#000000;
 }
+.navbar-dark .navbar-brand{
+  color: #000000;
+
+}
+.navbar-dark .navbar-nav .active>.nav-link{
+  color:#000000;
+}
 h4{
   text-align: center;
   padding: 10px 0;
@@ -23,4 +30,8 @@ footer{
 h1{
   text-align: center;
   padding: 15px;
+}
+a{
+  text-decoration: none;
+  color: #000000;
 }
