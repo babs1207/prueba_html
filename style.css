@@ -1,0 +1,18 @@
+body{
+  background-color: yellow;
+}
+h4{
+  color:rgb(49, 194, 240);
+  text-align: center;
+  padding: 10px 0;
+}
+.espacio{
+  height: 15px;
+}
+p{
+  text-align: justify;
+}
+.imagenes{
+  width:100%;
+  height:auto;
+}
